@@ -17,6 +17,7 @@
 * npm
 * node.js
 * webpack
+* DotEnv
 
 ## Description
 
@@ -26,10 +27,15 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
+// UPDATE NAME IN PACKAGE & PACKAGE-LOCK.JSON
 * Clone this repository to your desktop
+* [SIGN UP FOR AN ACCOUNT TO GET AN API KEY]
 * Navigate to the top level of this directory in your computer's terminal
-* Run the command "$ npm install" in your terminal to install the necessary packages
-* Run the command "$ npm run start" in your terminal to set up the webpage. This will also open a live server in your browser so that you will be able to see any changes you make to the code in real time.
+* create a file named ".env" in the top level of this directory
+* In the text of the .env file, include "API_KEY={your API key}" where {your API key} is replaced with the actual numbers of your API key
+* Navigate to the top level of this directory in your computer's terminal
+* Run the command "$ npm install" to install the necessary packages
+* Run the command "$ npm run start" in your terminal to build the webpage. This will also open a live server in your browser so that you will be able to see any changes you make to the code in real time.
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
