@@ -27,9 +27,9 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-// UPDATE NAME IN PACKAGE & PACKAGE-LOCK.JSON
-* Clone this repository to your desktop
+// UPDATE NAME IN PACKAGE & PACKAGE-LOCK.JSON & WEBPACK.CONFIG
 * [SIGN UP FOR AN ACCOUNT TO GET AN API KEY]
+* Clone this repository to your desktop
 * Navigate to the top level of this directory in your computer's terminal
 * create a file named ".env" in the top level of this directory
 * In the text of the .env file, include "API_KEY={your API key}" where {your API key} is replaced with the actual numbers of your API key
